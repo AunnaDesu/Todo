@@ -3,9 +3,11 @@
     <v-row class="text-center">
       <v-col cols="12">
         <v-img
-          :src="require('../assets/logo.svg')"
-          class="my-3"
+        alt="Vuetify Logo"
+          class="shrink mr-2"
           contain
+          src="https://www.pngfind.com/pngs/m/26-263460_megumin-sad-hd-png-download.png"
+          transition="scale-transition"
           height="200"
         />
       </v-col>

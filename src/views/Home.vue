@@ -1,15 +1,15 @@
 <template>
-  <div><Data></Data></div>
+  <div><hello-world></hello-world></div>
 </template>
 
 <script>
-import Data from "../components/YO.vue";
+import HelloWorld from "../components/HelloWorld.vue";
 
 export default {
   name: "Home",
 
   components: {
-    Data,
+    HelloWorld,
   },
 };
 </script>

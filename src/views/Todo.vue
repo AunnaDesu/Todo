@@ -1,8 +1,11 @@
 <template>
+
   <div>
+    
     <YO @Input="validate"></YO>
     <Lo :A1="A1"></Lo>
     </div>
+    
 </template>
 
 <script>

@@ -6,9 +6,9 @@
           alt="Vuetify Logo"
           class="shrink mr-2"
           contain
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png"
+          src="https://www.pngfind.com/pngs/m/26-263460_megumin-sad-hd-png-download.png"
           transition="scale-transition"
-          width="40"
+          width="95"
         />
 
         <v-img
